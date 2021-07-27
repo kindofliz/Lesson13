@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class LectureTasks {
     public static void main(String[] args) {
 
@@ -105,7 +107,7 @@ public class LectureTasks {
 
 
         //Replacing/adding multiple things at once with String format method
-        // %s -string
+        // %s - string
         // %c - char
         // %d - decimal (int, byte, short, long)
         // %f - float
@@ -148,6 +150,9 @@ public class LectureTasks {
         } else {
             System.out.println("Bank IBAN 2 is incorrect");
         }
+
+
+
 
 
 
